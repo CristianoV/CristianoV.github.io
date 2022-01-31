@@ -1,17 +1,23 @@
 *{
     background-color:gray ;
 }
-.imagem-cristiano {
-    border-radius: 200px;
-    width: 70px;
-    margin-top: -0px;
-    position: absolute;
-
-}
-#titulo-cris{
-    position: absolute;
-    left: 100px;
+div#descrição-completa{
+    text-align: center;
     font-family: 'Supermercado One', cursive;
+    padding: 4%;
+}
+div#descrição .imagem-cristiano{
+    border-radius: 200px;
+    width: 250px;
+    margin-top: -0px;
+    float: left;
+    padding: 2px;
+    background-color: #2fc18c;
+}
+
+#titulo-cris{
+    /* text-align: center;
+    font-family: 'Supermercado One', cursive; */
 }
 #descricao1{
     font-family: 'Roboto', sans-serif;
@@ -43,4 +49,12 @@
 }
 #habilidades li:nth-last-of-type(8){
     font-size: 20px;
+}
+
+ul li:nth-child(odd){
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div#indice{
+    text-align: center;
 }
