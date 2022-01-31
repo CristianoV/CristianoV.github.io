@@ -1,0 +1,46 @@
+*{
+    background-color:gray ;
+}
+.imagem-cristiano {
+    border-radius: 200px;
+    width: 70px;
+    margin-top: -0px;
+    position: absolute;
+
+}
+#titulo-cris{
+    position: absolute;
+    left: 100px;
+    font-family: 'Supermercado One', cursive;
+}
+#descricao1{
+    font-family: 'Roboto', sans-serif;
+
+}
+#cd{
+    font-style: italic;
+}
+#habilidades li:nth-last-of-type(1){
+    font-size: 15px;
+}
+#habilidades li:nth-last-of-type(2){
+    font-size: 15px;
+}
+#habilidades li:nth-last-of-type(3){
+    font-size: 15px;
+}
+#habilidades li:nth-last-of-type(4){
+    font-size: 15px;
+}
+#habilidades li:nth-last-of-type(5){
+    font-size: 15px;
+}
+#habilidades li:nth-last-of-type(6){
+    font-size: 17px;
+}
+#habilidades li:nth-last-of-type(7){
+    font-size: 17px;
+}
+#habilidades li:nth-last-of-type(8){
+    font-size: 20px;
+}
