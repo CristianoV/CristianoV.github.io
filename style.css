@@ -16,8 +16,8 @@ div#descrição .imagem-cristiano{
 }
 
 #titulo-cris{
-    /* text-align: center;
-    font-family: 'Supermercado One', cursive; */
+    text-align: center;
+    font-family: 'Supermercado One', cursive;
 }
 #descricao1{
     font-family: 'Roboto', sans-serif;
@@ -27,7 +27,7 @@ div#descrição .imagem-cristiano{
     font-style: italic;
 }
 #habilidades li:nth-last-of-type(1){
-    font-size: 15px;
+    font-size: 20x;
 }
 #habilidades li:nth-last-of-type(2){
     font-size: 15px;
@@ -48,13 +48,14 @@ div#descrição .imagem-cristiano{
     font-size: 17px;
 }
 #habilidades li:nth-last-of-type(8){
-    font-size: 20px;
+    font-size: 25px;
 }
 
-ul li:nth-child(odd){
-    font-family: Arial, Helvetica, sans-serif;
+ li:nth-child(odd){
+    font-style: italic;
 }
 
 div#indice{
     text-align: center;
+    padding: 5px;
 }
